@@ -1,11 +1,11 @@
 <template>
   <div>
-    <h1>Home</h1>
+    <h1>Shops</h1>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'Home',
+  name: 'Shops',
 };
 </script>
